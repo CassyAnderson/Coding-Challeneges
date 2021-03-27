@@ -1,4 +1,4 @@
-# Coding Challenges
+# Coding Challenges 🎨
 
 The purpose of this project is to have an area to store all of the typical interview coding excerises.
 
